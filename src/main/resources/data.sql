@@ -1,0 +1,4 @@
+insert into user_info(ID, email, firstname, gender, lastname, password, role) values('6212909f-a253-4e87-82dd-4633674ff0e4', 'thomson.john@gmail.com', 'John', 0, 'Thomson', '$2a$10$VBx3pEkhQnEP4bkJY7iK3e.ug3.AVcSkCmOLs4zNZfEoN6X7rIIY2', 1);
+insert into user_info(ID, email, firstname, gender, lastname, password, role) values('c1bb7f51-5250-4537-92c1-8a8c1ce1af91', 'jane@email.com', 'Jane', 1, 'Okoro', '$2a$10$P5mqxr.WdQsyy2H/3IaBVePVOVONJitZevisofyfakrGhSOaVXHqW', 1);
+insert into user_info(ID, email, firstname, gender, lastname, password, role) values('7e6e1572-1954-4046-90cd-b0616a36efc6', 'okoro@email.com', 'Mike', 0, 'Okoro', '$2a$10$5wjgq6JZQTWRgl2jmEZJ4uY0UYq2FH2L3/wcc/RdaX8SjYAnIU4Qm', 1);
+insert into user_info(ID, email, firstname, gender, lastname, password, role) values('f041f731-773e-439e-a120-783a60623b4f', 'adekunle@gmail.com', 'Kenneth', 0, 'Adekunle', '$2a$10$TPiCNNPowzRGUPVod74DFu2WGRABYNLBR6VTOV8/D7NQyBLUHjhoG', 1);
