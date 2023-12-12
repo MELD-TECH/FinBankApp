@@ -23,6 +23,7 @@ For building and running the application you need:
 
 # Running the application locally
 Clone the project and use Maven to build 
+
 ```shell
 mvn clean install
 ```
@@ -30,12 +31,16 @@ mvn clean install
 There are several ways to run a Spring Boot application on your local machine. 
 
 Alternatively you can use this command
+
 ```shell
 mvn spring-boot:run
 ```
 
 You can also find the Jar file in this location
-- ..\FinBankApp\target\FinBankApp-0.0.1-SNAPSHOT.jar
+
+```console
+..\FinBankApp\target\FinBankApp-0.0.1-SNAPSHOT.jar
+```
 
 # Features
 - These services can perform
